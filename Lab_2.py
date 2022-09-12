@@ -127,7 +127,7 @@ if result[5] != '0':
         if result[5] == '1':
             output.pop()
             output.append('рубль')
-print(str.capitalize(' '.join(output)))
+print('Вы ввели:', str.capitalize(' '.join(output)))
 
 
 
