@@ -1,4 +1,4 @@
-num = input()
+num = input('Введите число рублей от 1 до 999999')
 result = list(num)
 len_check = len(result)
 output = []
