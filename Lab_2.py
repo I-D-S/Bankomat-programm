@@ -1,12 +1,11 @@
-num = input('Введите число рублей от 1 до 999999')
+num = input('Введите число рублей от 1 до 999999\n')
 result = list(num)
 len_check = len(result)
 output = []
-a0=a1=a2=a3=a4=a5=''
 if len(result) > 6:
     print('Слишком большое число')
 while len(result) < 6:
-    zero = [0]
+    zero = ['0']
     result = zero + result    
 if result[0] != '0':
     if result[0] == '9': a0 = 'девятьсот'
