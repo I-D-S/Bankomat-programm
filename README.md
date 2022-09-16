@@ -13,10 +13,10 @@ ____
 **Программа может быть запущена в любой IDE для Python или через командную строку**
 ## WScode
 тест 128
-![Иллюстрация к проекту](https://github.com/I-D-S/Bankomat-program/raw/master/2022-09-16.png)
+![](https://github.com/I-D-S/Bankomat-programm/blob/main/2022-09-16.png)
 ## Командная строка
 тест 1001
-![Иллюстрация к проекту](https://github.com/I-D-S/Bankomat-program/raw/master/2022-09-16 (1).png)
+![](https://github.com/I-D-S/Bankomat-programm/blob/main/2022-09-16%20(1).png)
 ## IDLE
 тест 256501
-![Иллюстрация к проекту](https://github.com/I-D-S/Bankomat-program/raw/master/2022-09-16 (2).png)
+![](https://github.com/I-D-S/Bankomat-programm/blob/main/2022-09-16%20(2).png)
